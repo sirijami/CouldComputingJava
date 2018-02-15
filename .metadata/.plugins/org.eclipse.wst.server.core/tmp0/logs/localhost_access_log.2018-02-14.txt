@@ -1,0 +1,5 @@
+127.0.0.1 - - [14/Feb/2018:19:15:55 -0800] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [14/Feb/2018:19:16:11 -0800] "GET /courseservice/WEB-INF/classes/sirisha/courseservice/MyResource.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [14/Feb/2018:19:16:14 -0800] "GET /courseservice/WEB-INF/classes/sirisha/courseservice/StudentResource.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [14/Feb/2018:19:16:43 -0800] "GET /courseservice/WEB-INF/classes/sirisha/courseservice/MyResource.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [14/Feb/2018:19:16:53 -0800] "GET /courseservice/ HTTP/1.1" 200 239
